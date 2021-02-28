@@ -180,7 +180,7 @@ p {
 
 @media (max-width: 1250px) {
 
-    #title {
+    #title .container-fluid {
         text-align: center;
     }
 
